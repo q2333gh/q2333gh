@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning CS fundamentals
+- 🌱 I’m keep refining CS fundamentals
 
 - 💬 Welcome to chat with me.
 
