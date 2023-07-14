@@ -4,8 +4,8 @@
 
 Here is my blog-website: https://q2333gh.github.io/  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q2333gh&count_private=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q2333gh?count_private=true)](https://github.com/q2333gh/github-readme-stats)
 
 <img
   src="https://github.com/q2333gh/q2333gh/blob/master/images/stat.svg"
