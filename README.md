@@ -9,5 +9,5 @@ Here is my blog-website: https://q2333gh.github.io/
 
 <img
   src="https://github.com/q2333gh/q2333gh/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="q2333gh WakaTime Activity"
 />
