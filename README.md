@@ -1,4 +1,4 @@
-🌱 I’m keeping refining my CS fundamentals  
+🌱 My passion is learning  Computer Engineering  and make cool stuff.  
 
 💬 You are welcome to chat with me.  
 
