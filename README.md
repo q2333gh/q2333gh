@@ -1,4 +1,4 @@
-🌱 My passion is learning  Computer Engineering  and make cool stuff.  
+🌱 My passion is exploring  Computer Engineering  and make cool stuff.  
 
 💬 You are welcome to chat with me.  
 
