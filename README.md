@@ -3,12 +3,7 @@
 💬 You are welcome to chat with me.  
 
 
-Here is my blog-website: https://q2333gh.github.io/  
-<!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/ac581895-3454-471c-a0ce-3106a6e4b74e.svg)](https://wakatime.com/@ac581895-3454-471c-a0ce-3106a6e4b74e)
-
-<!--END_SECTION:waka-->
-
+Here is my homepage: https://q2333gh.github.io/  
 
 ## ⚡ Platforms
 
@@ -31,8 +26,9 @@ Here is my blog-website: https://q2333gh.github.io/
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-
-
+<!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/ac581895-3454-471c-a0ce-3106a6e4b74e.svg)](https://wakatime.com/@ac581895-3454-471c-a0ce-3106a6e4b74e)
+<!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q2333gh&count_private=true)
 
