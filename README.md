@@ -2,6 +2,7 @@
 
 💬 You are welcome to chat with me.  
 
+  Huge fan of jyy-os course! (https://jyywiki.cn/OS/2024/) 
 
 Here is my homepage: https://q2333gh.github.io/  
 
