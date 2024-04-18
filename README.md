@@ -29,11 +29,6 @@ Here is my homepage: https://q2333gh.github.io/
 
 <!--START_SECTION:waka-->
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=q2333gh&count_private=true&include_all_commits=true&show_icons=true&custom_title=j178%27s%20GitHub%20stats" />
-</p>
-
-
 
 [![coding hours](https://wakatime.com/badge/user/ac581895-3454-471c-a0ce-3106a6e4b74e.svg)](https://wakatime.com/@ac581895-3454-471c-a0ce-3106a6e4b74e)
 <!--END_SECTION:waka-->
@@ -41,4 +36,7 @@ Here is my homepage: https://q2333gh.github.io/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=q2333gh&count_private=true)
 
 
+<p align="center">
+  <img height="500" src="https://github.com/j178/j178/assets/10510431/1bb06b40-16a7-4316-9d7c-7a0d0042806a" />
+</p>
 
