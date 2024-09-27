@@ -1,4 +1,6 @@
 🌱 My passion is exploring  Computer Engineering  and make interesting stuff.  
+    Sometimes make some python small tools.
+     
 
 💬 You are welcome to chat with me.  
 
