@@ -1,7 +1,5 @@
 🌱 My passion is exploring  Computer Engineering  and make interesting stuff.  
-    Sometimes make some python small tools.
-     
-
+🌱 Sometimes make some small tools.
 💬 You are welcome to chat with me.  
 
   Huge fan of jyy-os course! (https://jyywiki.cn/OS/2024/) 
